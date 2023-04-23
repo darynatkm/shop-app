@@ -1,0 +1,65 @@
+$color_1: grey;
+$color_2: white;
+$font-family_1: arial;
+$background-color_1: #000;
+
+.product-page-card {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+	max-width: auto;
+	margin: auto;
+	text-align: left;
+	font-family: $font-family_1;
+    &-text {
+        display: flex;
+        flex-direction: column;
+        align-self: center;
+        gap: 20px; 
+    }
+	button {
+		border: none;
+		outline: 0;
+		padding: 12px;
+		color: $color_2;
+		background-color: $background-color_1;
+		text-align: center;
+		cursor: pointer;
+		width: 20%;
+		font-size: 18px;
+		&:hover {
+			opacity: 0.7;
+		}
+	}
+    img {
+        width: 450px;
+        height: 450px;
+		align-self: center;
+    }
+
+}
+
+.desc {
+    padding: 5%;
+    text-align: justify;
+	display: block;
+
+}
+.price {
+	color: $color_1;
+	font-size: 22px;
+}
+
+.goBack {
+
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: $color_2;
+    background-color: $background-color_1;
+    text-align: center;
+    cursor: pointer;
+    width: 10%;
+    font-size: 18px;
+}

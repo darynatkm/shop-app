@@ -1,0 +1,9 @@
+{
+    "products": [
+      { "id": 1, "title": "HP Laptop", "description": "HP laptops come in a variety of models with different specifications and features, ranging from budget-friendly models to high-end gaming laptops. Some of the key features of HP laptops include powerful processors, ample storage capacity, long battery life, high-resolution displays, and advanced graphics cards.", "price": 700, "img": "laptop.png" },
+      { "id": 2, "title": "Acer Laptop", "description": "Acer laptops come in a variety of models with different specifications and features, ranging from budget-friendly models to high-end gaming laptops. Some of the key features of HP laptops include powerful processors, ample storage capacity, long battery life, high-resolution displays, and advanced graphics cards.", "price": 800, "img": "laptop1.jpeg" },
+      { "id": 3, "title": "Apple Laptop MacBook Pro", "description": "Apple laptops come in a variety of models with different specifications and features, ranging from budget-friendly models to high-end gaming laptops. Some of the key features of HP laptops include powerful processors, ample storage capacity, long battery life, high-resolution displays, and advanced graphics cards.", "price": 1300, "img": "laptop2.jpeg" },
+      { "id": 4, "title": "Dell Laptop", "description": "Dell laptops come in a variety of models with different specifications and features, ranging from budget-friendly models to high-end gaming laptops. Some of the key features of HP laptops include powerful processors, ample storage capacity, long battery life, high-resolution displays, and advanced graphics cards.", "price": 900, "img": "laptop3.avif" }
+    ],
+    "cart": []
+}
